@@ -1,4 +1,4 @@
-# MonReader
+# Mon Reader
 
 Apziva project #4<br>
 2023 07 29ff
@@ -10,3 +10,5 @@ __Summary:__
 	* Transfer learning
 * Detailed information in notebook "Project overview" and on top of each notebook.
 * Update: MobileNet used for sequence analysis.
+* AdaBoost and XGBoost added
+* Comparing probabilities and predictions with SVM
